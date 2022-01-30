@@ -1,4 +1,4 @@
-[![MasterHead]("https://giphy.com/embed/NKEt9elQ5cR68")]
+[![MasterHead](https://giphy.com/embed/NKEt9elQ5cR68)]
 <h1 align="center">Hi 👋, I'm Carlos Salguero</h1>
 <h3 align="center">Student at Tec de Monterrey</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif">
