@@ -1,4 +1,4 @@
-<img src='https://giphy.com/embed/NKEt9elQ5cR68' alt="banner"></img>
+<img src='https://giphy.com/embed/NKEt9elQ5cR68.gif' alt="banner"></img>
 <h1 align="center">Hi 👋, I'm Carlos Salguero</h1>
 <h3 align="center">Student at Tec de Monterrey</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif">
