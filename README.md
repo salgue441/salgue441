@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MatLab and Unreal Engine**
-
-- 💬 Ask me about **C++, Python**
-
-- 📫 How to reach me **carlossalguero441@gmail.com**
-
-- ⚡ Fun fact **I love to learn.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/rodry salguero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodry salguero" height="30" width="40" /></a>
