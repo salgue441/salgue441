@@ -1,7 +1,6 @@
 <img src='https://i.imgur.com/LVKvjL6.gif' alt="banner"></img>
 <h1 align="center">Hi, I'm Carlos Salguero</h1>
 <h3 align="center">Self-taught developer  and Computer Science Student at Tecnologico de Monterrey. </h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
