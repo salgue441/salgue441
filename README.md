@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif)]
+![MasterHead](https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Carlos Salguero</h1>
 <h3 align="center">I'm a computer science student at Tec de Monterrey and a self-taught dev.</h3>
