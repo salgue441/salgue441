@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos salguero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos salguero" height="30" width="40" /></a>
-<a href="https://fb.com/carlos salguero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlos salguero" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos-salguero-3a1900148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos salguero" height="30" width="40" /></a>
+<a href="[https://fb.com/carlos salguero](https://www.facebook.com/rodry.salguero.7/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlos salguero" height="30" width="40" /></a>
 <a href="https://instagram.com/rodrysalguero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrysalguero" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/crsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crsa" height="30" width="40" /></a>
 <a href="https://discord.gg/rodri#9011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rodri#9011" height="30" width="40" /></a>
