@@ -37,7 +37,7 @@ hobbies: ["Reading", "Gaming", "Coding", "Playing the Piano", "Climbing", "Gym"]
 ## 🚀Some Tools I Use 🧑🏻‍🚀
 
 <p align="left">    
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,c,cpp,cs,cmake,docker,eclipse,figma,firebase,gcp,git,githubactions,gradle,graphql,java,js,jquery,kotlin,latex,linux,mysql,neovim,nodejs,postman,py,react,redux,tensorflow,ts,unreal,visualstudio,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,blender,c,cpp,cs,cmake,docker,dotnet,eclipse,figma,firebase,flutter,gcp,git,githubactions,github,gradle,graphql,java,js,jquery,jest,jquery,kotlin,latex,linux,mysql,md,maven,neovim,nodejs,postman,py,prisma,react,redux,sqlite,sequelize,tensorflow,ts,unity,unreal,vim,visualstudio,vscode&theme=dark" />
 </p>
 
 ## GitHub Stats
