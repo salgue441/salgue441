@@ -8,36 +8,24 @@
 name: Carlos Salguero
 pronouns: He/Him
 located_in: Querétaro, México
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Computer Science Student at Tec de Monterrey",
-  ]
-
-job: Integrations Engineering Intern
-company: PPG Mexico
-
-languages: ["Spanish": "Native", "English": "Proficient", "Corean": "Beginner"]
+education: Software Engineer
+languages: ["Spanish": "Native", "English": "Proficient"]
+hobbies: ["Reading", "Gaming", "Coding", "Playing the Piano", "Climbing", "Gym"]
 
 fields_of_interest:
   [
-    "Machine Learning",
-    "Physics",
-    "Game Developments",
-    "Software Architecture",
-    "DevOps",
+    "Data Science",
+    "Machine Learning"
+    "Artificial Intelligence",
+    "Microservices",
+    "Distributed Systems"
   ]
-
-currently_learning:
-  ["Japanese", "GraphQL", "Rust", "Design Patterns", Software Arquitectures"]
-2023_goals: ["Develop my own Game Engine"]
-hobbies: ["Reading", "Gaming", "Coding", "Playing the Piano", "Climbing", "Gym"]
 ```
 
 ## 🚀Some Tools I Use 🧑🏻‍🚀
 
 <p align="left">    
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,blender,c,cpp,cs,cmake,docker,dotnet,eclipse,figma,firebase,flutter,gcp,git,githubactions,github,gradle,graphql,java,js,jquery,jest,kotlin,latex,linux,mysql,md,maven,neovim,nodejs,postman,py,prisma,react,redux,sqlite,sequelize,tensorflow,ts,unity,unreal,vim,visualstudio,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,cpp,cmake,docker,figma,firebase,flutter,go,git,githubactions,github,graphql,java,js,jquery,jest,latex,linux,mysql,md,maven,neovim,nodejs,postman,py,prisma,react,redux,rust,sqlite,sequelize,tensorflow,ts&theme=dark" />
 </p>
 
 ## GitHub Stats
