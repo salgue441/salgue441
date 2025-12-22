@@ -28,6 +28,6 @@ Building at the intersection of **AI/ML** and **Scalable Distributed Systems**. 
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="YOUR_RESUME_LINK_HERE">Download my resume</a>
+> <a href="https://drive.google.com/file/d/1m9mLvcE8GtSB0_JpB5AWtbColTWQOM1L/view?usp=sharing">Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
