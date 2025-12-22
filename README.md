@@ -17,11 +17,11 @@ Building at the intersection of **AI/ML** and **Scalable Distributed Systems**. 
 
 ### Connect with me!
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/carlossalgue">
     <img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:carlossalguero441@gmail.com">
     <img src="https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
