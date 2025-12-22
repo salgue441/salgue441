@@ -1,38 +1,33 @@
-<h1 align="center">Hi 👋🏻, I'm Carlos Salguero 👨🏻‍💻 </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=header" alt="header"/> 
 
-![MasterHead](https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif)
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=008080&width=435&lines=Hello%2C+it's+Carlos+Salguero;SWE+|+AI/ML+Specialist;Entrepreneur" alt="Carlos Salguero"/>
+</a>
 
-## About Me
+### About Me
+Building at the intersection of **AI/ML** and **Scalable Distributed Systems**. Currently focused on high-performance architecture and entrepreneurial ventures in the tech space.
 
-```yml
-name: Carlos Salguero
-pronouns: He/Him
-located_in: Querétaro, México
-education: Software Engineer
-languages: ["Spanish": "Native", "English": "Proficient"]
-hobbies: ["Reading", "Gaming", "Coding", "Playing the Piano", "Climbing", "Gym"]
+` 📍 Querétaro, México ` &nbsp; ` 🎹 Musician & Athlete `
 
-fields_of_interest:
-  [
-    "Data Science",
-    "Machine Learning"
-    "Artificial Intelligence",
-    "Microservices",
-    "Distributed Systems"
-  ]
-```
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,py,go,java,cpp,rust,tensorflow,pytorch,postgres,mongodb,aws,docker,redis,grafana,linux&theme=dark)](https://skillicons.dev)
 
-## 🚀Some Tools I Use 🧑🏻‍🚀
+### Studying
+[![Learning](https://skillicons.dev/icons?i=kubernetes,terraform,azure)](https://skillicons.dev)
 
-<p align="left">    
-    <img src="https://skillicons.dev/icons?i=aws,bash,cpp,cmake,docker,figma,firebase,flutter,go,git,githubactions,github,graphql,java,js,jquery,jest,latex,linux,mysql,md,maven,neovim,nodejs,postman,py,prisma,react,redux,rust,sqlite,sequelize,tensorflow,ts&theme=dark" />
+### Connect with me!
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-## GitHub Stats
+### Employer?
+> [!IMPORTANT]  
+> <a href="YOUR_RESUME_LINK_HERE">Download my resume</a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=salgue441&show_icons=true&hide_border=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salgue441&layout=compact&hide_border=true&theme=dark)
-
-<!-- Snake animation -->
-
-![Snake animation](https://github.com/salgue441/salgue441/blob/output/github-snake-dark.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
